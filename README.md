@@ -1,2 +1,2 @@
 # experiment-dvc
-experimentation for dvc is runned on this repo
+experimentation for dvc is runned on this repo.
