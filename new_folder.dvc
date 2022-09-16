@@ -1,5 +1,5 @@
 outs:
-- md5: a8695954fe3218ab97fb7a22079c5a00.dir
-  size: 38865172
-  nfiles: 2
+- md5: a763c14af10c7ea7ab0b8b790adc1e2c.dir
+  size: 64102345
+  nfiles: 4
   path: new_folder
