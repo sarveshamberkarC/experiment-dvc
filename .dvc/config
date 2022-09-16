@@ -1,4 +1,6 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = D:/cemtrex_github/test
+    url = /home/sarvesh/Documents/repositories/experimentation/data_dvc
+['remote "myremote2"']
+    url = gdrive://1WqT6rY13mfz-SNE9LlNz1b75LScM9iH4
