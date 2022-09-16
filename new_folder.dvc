@@ -1,0 +1,5 @@
+outs:
+- md5: 8c3b54b0a043c01b1dd59030ac8e1975.dir
+  size: 25237173
+  nfiles: 2
+  path: new_folder
